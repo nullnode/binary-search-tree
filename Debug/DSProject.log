@@ -1,0 +1,9 @@
+﻿  tree.cpp
+c:\users\alex\desktop\code\c++\dsproject\dsproject\tree.cpp(159): warning C4099: 'node': type name first seen using 'class' now seen using 'struct'
+  c:\users\alex\desktop\code\c++\dsproject\dsproject\node.h(3): note: see declaration of 'node'
+  DSProject.cpp
+c:\users\alex\desktop\code\c++\dsproject\dsproject\dsproject.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alex\desktop\code\c++\dsproject\dsproject\dsproject.cpp(17): warning C4101: 'preorderI': unreferenced local variable
+  Generating Code...
+  DSProject.vcxproj -> C:\Users\Alex\Desktop\code\c++\DSProject\Debug\DSProject.exe
+  DSProject.vcxproj -> C:\Users\Alex\Desktop\code\c++\DSProject\Debug\DSProject.pdb (Full PDB)
